@@ -1,0 +1,1 @@
+this is the test for the path module of java script
